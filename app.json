@@ -1,0 +1,6 @@
+{
+  "name": "COVID-19 Data Tracker",
+  "description": "Trackes the data of COVID-19 in Pakistan",
+  "repository": "https://github.com/sami1526/streamlit_repo.git",
+  "keywords": ["COVID-19 data tracker", "streamlit", "app"]
+}
