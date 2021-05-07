@@ -1,4 +1,0 @@
-.git*
-Pipfile*
-workspace*
-fileTobeIgnored.txt
